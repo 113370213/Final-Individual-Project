@@ -3,6 +3,6 @@
 Name: 柯欣妤
 Student ID: 113370213
 ## Project Repository
-https://github.com/.....
+https://github.com/113370213/Final-Individual-Project
 ## Presentation Video
 https://youtube.com/.....
